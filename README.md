@@ -232,7 +232,7 @@ DB_PATH=./quiz.db
 
 ---
 
-# 🗃 **Database Schema (SQLite)**
+# 🗃 **Database Schema **
 
 ### **Questions**
 
