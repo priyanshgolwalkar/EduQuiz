@@ -39,7 +39,7 @@ It provides:
 
 * Node.js
 * Express.js
-* SQLite database (via custom db.js)
+* MYSQL database (via custom db.js)
 * dotenv
 * REST API architecture
 
