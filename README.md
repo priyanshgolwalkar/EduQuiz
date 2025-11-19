@@ -29,7 +29,6 @@ It provides:
 * Vite
 * Tailwind CSS
 * Shadcn/UI Components
-* Zustand *(if used)*
 * React Router
 * PostCSS
 * ESLint
@@ -103,17 +102,16 @@ QUIZ_WEB/
 
 ### **Dashboard**
 
-![Dashboard](./screenshots/dashboard.png)
+![Dashboard](./Dashboard.png)
 
 ### **Quizzes Page**
 
-![Quizzes](./screenshots/quizzes.png)
+![Quizzes](./Quizzes.png)
 
 ### **Grade Card**
 
-![GradeCard](./screenshots/gradecard.png)
+![GradeCard](./radecard.png)
 
-*(Add your images inside `screenshots/` folder.)*
 
 ---
 
@@ -305,5 +303,3 @@ Planned Improvements:
 
 EduQuiz delivers a smooth, gamified learning experience with a modern UI and scalable architecture.
 It is simple for students, efficient for admins, and easy to extend with new features.
-✅ I can generate the **final Google Drive submission structure**
-Just tell me!
