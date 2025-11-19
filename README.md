@@ -57,7 +57,6 @@ It provides:
 
 ![Architecture](./architecture.png)
 
-*(Place your architecture image in the root as `architecture.png`.)*
 
 ### **How It Works**
 
@@ -110,7 +109,7 @@ QUIZ_WEB/
 
 ### **Grade Card**
 
-![GradeCard](./radecard.png)
+![GradeCard](./GradeCard.png)
 
 
 ---
